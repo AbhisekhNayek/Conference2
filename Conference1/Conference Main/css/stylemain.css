@@ -446,7 +446,8 @@ a{
 	}
 	.vide p {
 		padding: 0px 15px 10px;
-		font-size: 13px;
+		text-align: center;
+		font-size: 18px;
 		margin: 12px 0;
 		color: #fff;
 		line-height: 20px;
@@ -518,7 +519,7 @@ a{
 	}
 	.time .content h5 {
 		color: #FFF;
-		font-size: 25px;
+		font-size: 15px;
 		/* font-weight: 900; */
 		margin: 30px 0px;
 	}
@@ -799,6 +800,7 @@ a{
 .product .popup-card .info p{
   font-size: 15px;
   margin: 10px;
+  text-align: justify;
 }
 
 .product .popup-card .info .price{
@@ -813,7 +815,7 @@ a{
   font-size: 16px;
   font-weight: 600;
   text-align: center;
-  text-decoration: none;
+  text-decoration:none;
   text-transform: uppercase;
   margin: 10px auto;
   padding: 10px 50px;
@@ -1565,4 +1567,15 @@ form .btn{
 	top:0;
 	bottom: 0px;
 }
-
+.updates h2{
+	text-align: center;
+	color: #042163;
+	font-size: 30px;
+}
+.updates p {
+	padding: 0px 15px 10px;
+	text-align: center;
+	font-size: 18px;
+	margin: 12px 0;
+	color: #fff;
+}
